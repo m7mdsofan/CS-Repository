@@ -1,0 +1,6 @@
+D:\Java\Frist Code\First Prog\First Prog\bin\Debug\First Prog.exe.config
+D:\Java\Frist Code\First Prog\First Prog\bin\Debug\First Prog.exe
+D:\Java\Frist Code\First Prog\First Prog\bin\Debug\First Prog.pdb
+D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.csprojResolveAssemblyReference.cache
+D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.exe
+D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.pdb
