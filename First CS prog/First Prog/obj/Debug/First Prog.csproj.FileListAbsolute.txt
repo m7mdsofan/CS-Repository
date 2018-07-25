@@ -4,3 +4,9 @@ D:\Java\Frist Code\First Prog\First Prog\bin\Debug\First Prog.pdb
 D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.csprojResolveAssemblyReference.cache
 D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.exe
 D:\Java\Frist Code\First Prog\First Prog\obj\Debug\First Prog.pdb
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\bin\Debug\First Prog.exe.config
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\obj\Debug\First Prog.exe
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\obj\Debug\First Prog.pdb
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\bin\Debug\First Prog.exe
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\bin\Debug\First Prog.pdb
+D:\Visual Studio 2012\CS-Repository\First CS prog\First Prog\obj\Debug\First Prog.csprojResolveAssemblyReference.cache

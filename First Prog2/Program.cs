@@ -12,13 +12,13 @@ namespace First_Prog
         {         
             Console.WriteLine("Hello World");
 
-            int charMin = Char.MinValue;
-            int charMax = Char.MaxValue;
+            bool MyResult;
+            int  MyVar1 = 5 , Myvar2 = 10;
+            MyResult = MyVar1 == 5;
+         
 
-            char myVar = 'M';
 
-
-            Console.WriteLine("Min Char = {0} Max Char = {1} My Character = {2} ", charMin, charMax, myVar);
+            Console.WriteLine("My Result is {0} ", MyResult);
 
             Console.ReadKey();
         }

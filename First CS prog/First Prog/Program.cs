@@ -11,6 +11,10 @@ namespace First_Prog
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            bool MyResult;
+            int MyVar1 = 5, MyVar2 = 10;
+            MyResult = (MyVar1 > 5) || (MyVar2 > 10);
+            Console.WriteLine("My Result is = \"{0}\"" , MyResult);
             Console.ReadKey();
         }
     }
